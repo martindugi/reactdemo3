@@ -1,0 +1,27 @@
+.main-heading {
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: 'Verdana';
+    padding: 5px 10px;
+    background-color: rgb(17, 10, 24);
+    margin-top: 2px;
+}
+img {
+    max-width: 100px;
+    max-height: 100px;
+    padding: 5px 5px;
+    text-align: center;
+}
+.main-heading2 {
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: 'Verdana';
+    padding: 5px 10px;
+    background-color: yellow;
+    margin-top: 2px;
+}
+.main-heading2 img {
+    max-width: 100px;
+    max-height: 100px;
+    padding: 5px 5px;
+}

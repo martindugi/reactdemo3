@@ -1,0 +1,32 @@
+.AllOS {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 5px 15px 15px 15px;
+    border-spacing: 10px 10px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+}
+.OS {
+    width: 150px;
+    border: none;
+    box-shadow: 0 0 20 black;
+    color: white;
+    margin: 10px 5px;
+    display: flex;
+    flex-direction: column;
+    transition: all 0.5 linear;
+}
+.OS img {
+    width: 100px;
+    height: 100px;
+}
+.OS:hover {
+    transform: scale(1.04);
+}
+.OS h1 {
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

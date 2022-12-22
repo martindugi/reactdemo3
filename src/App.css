@@ -1,0 +1,15 @@
+.App {
+  ddisplay: flex;
+  fflex-direction: row;
+  align-content: center;
+  max-width: 100%;
+  padding: 5px 2px;
+}
+
+.App h1 {
+  font-family: Helvetica;
+  font-size: 18px;
+  font-style: italic;
+  flex-wrap: nowrap;  
+  margin-left: 200px;
+}
